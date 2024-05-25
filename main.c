@@ -34,7 +34,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrev, LPSTR lpCmdLine, int 
     unsigned short serverPort = 12345; // Example port number
     char *serverIp;
     WSADATA wsaDATA;
-    serverIp = "10.6.157.138";
+    serverIp = "";
 
     if (WSAStartup(MAKEWORD(2, 0), &wsaDATA) != 0){
         exit(1);
