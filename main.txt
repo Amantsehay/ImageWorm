@@ -1,0 +1,7 @@
+1. Create Connection with the main server
+2. Create a shell Function (Wait for Incoming command and Iterate Over certain options)
+3. Automatically restart the programm when the machine restarts 
+4. Start/Spawn other programms 
+5. Navigate throug different directories 
+6. Implement keyloger as a backdoard 
+
